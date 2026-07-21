@@ -1,0 +1,10 @@
+{
+  "selected_model": "augmented",
+  "source_image": "000000000036.jpg",
+  "detection_count": 2,
+  "class_counts": {
+    "person": 1,
+    "umbrella": 1
+  },
+  "average_confidence": 0.8388
+}
